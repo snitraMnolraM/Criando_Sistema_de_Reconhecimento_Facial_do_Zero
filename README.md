@@ -159,7 +159,7 @@ Vamos resolver este problema passo a passo. Eu não vou explicar detalhadamente 
 
   * A base de dados foi formada pelo 11 jogadores, do time titular do Flamengo, os demais seram classificados como Desconhecidos.
 
-​	Após o treinamento, apliquei o classificador em cada eu algumas imagens. confira o resultado!
+​	Após o treinamento, apliquei o classificador nas imagens. confira o resultado!
 
 
 
